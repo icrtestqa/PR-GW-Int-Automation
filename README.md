@@ -20,7 +20,7 @@ The starter kit supports npm, pnpm, and yarn. If you created the starer via the 
 
 If you created the starter via `create-pantheon-decoupled-kit`, it will detect the package manager used to run the command and use it install the starter's dependencies unless the `--noInstall` flag was used.
 
-## `@pantheon-systems` npm Packages
+## `@pantheon-systems` npm Packages ##
 
 ## `@pantheon-systems/wordpress-kit` npm package
 
